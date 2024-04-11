@@ -1,0 +1,7 @@
+er_found.place_forget()
+    user_found_name.place_forget()
+    user_found_age.place_forget()
+    user_found_gender.place_forget()
+    user_not.place_forget()
+    user_found_seat.place_forget()
+    user_found_fare.place_forget()
